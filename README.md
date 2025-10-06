@@ -1,0 +1,1 @@
+# VReady Project\nمنصة فيديوهات جاهزة للمنتجات مبنية بـ React + Tailwind CSS
